@@ -14,4 +14,6 @@ The AI Agile Manifesto is based on [the AI Project Handbook: How to manage a suc
 ### 9. AI risk management requires a constant risk assessment, a risk strategy, and Human-in-the-loop.
 ### 10. You need to involve all the stakeholders and have a clear communication plan, especially when things go wrong.
 ### 11. You need to identify, understand and address the ethical concerns caused by AI.
-### 12. Agile for AI requires a specific approach with longer cycles and more exploration.    
+### 12. Agile for AI requires a specific approach with longer cycles and more exploration.
+
+![AI Agile Manifesto Elephant v1 1](https://user-images.githubusercontent.com/53805083/145127489-04d40820-1561-4221-9f1b-d33a2409d3ad.png)
