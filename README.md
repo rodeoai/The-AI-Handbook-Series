@@ -18,4 +18,4 @@ The AI Agile Manifesto is based on [the AI Project Handbook: How to manage a suc
 
 ![AI Agile Manifesto Elephant v1 1](https://user-images.githubusercontent.com/53805083/145127489-04d40820-1561-4221-9f1b-d33a2409d3ad.png)
 
-![mtrinhbook_banner_Linkedin - Copy](https://user-images.githubusercontent.com/53805083/145128523-1844477d-2e19-467c-aae9-349eb3b77156.jpg)(https://www.amazon.com/Project-Handbook-successful-intelligence-Intelligence-ebook/dp/B09JN2VQH9)
+![mtrinhbook_banner_Linkedin - Copy](https://user-images.githubusercontent.com/53805083/145128523-1844477d-2e19-467c-aae9-349eb3b77156.jpg)
