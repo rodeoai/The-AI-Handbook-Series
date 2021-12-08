@@ -17,3 +17,4 @@ The AI Agile Manifesto is based on [the AI Project Handbook: How to manage a suc
 ### 12. Agile for AI requires a specific approach with longer cycles and more exploration.
 
 ![AI Agile Manifesto Elephant v1 1](https://user-images.githubusercontent.com/53805083/145127489-04d40820-1561-4221-9f1b-d33a2409d3ad.png)
+![mtrinhbook_banner_Linkedin - Copy](https://user-images.githubusercontent.com/53805083/145128435-d198ecf9-19dd-4d3c-85cd-13dba559c89c.jpg)
