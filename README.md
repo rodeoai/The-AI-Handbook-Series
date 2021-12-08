@@ -1,6 +1,6 @@
 # The AI Agile Manifesto
 
-The AI Agile Manifesto is based on [the AI Project Handbook: How to manage a successful artificial intelligence project] (https://www.amazon.com/Project-Handbook-successful-intelligence-Intelligence-ebook/dp/B09JN2VQH9).
+The AI Agile Manifesto is based on [the AI Project Handbook: How to manage a successful artificial intelligence project](https://www.amazon.com/Project-Handbook-successful-intelligence-Intelligence-ebook/dp/B09JN2VQH9).
 
 
 ### 1. You need to know what you want to achieve with AI. There is a trade-off between feasibility and business impact.
