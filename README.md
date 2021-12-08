@@ -3,8 +3,8 @@ The AI Agile Manifesto
 The AI Agile Manifesto is based on the AI Project Handbook: How to manage a successful artificial intelligence project.
 
 
-You need to know what you want to achieve with AI. There is a trade-off between feasibility and business impact.
-The organization has to be committed to the AI project.
+*1. You need to know what you want to achieve with AI. There is a trade-off between feasibility and business impact.
+*2. The organization has to be committed to the AI project.
 The AI team leader needs to be an effective manager and a leader with a shared vision of AI.
 Design thinking and Agile are valuable tools. Be laser-focused on the to-do-list to control the scope, cost, and schedule of the AI project.
 You need to know all the factors that can influence the AI project.
